@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\kevinthegrey\desktop\lecture1\180610_stl\180610_stl\main.cpp(53): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\kevinthegrey\desktop\lecture1\180610_stl\180610_stl\main.cpp(51): note: 클래스 템플릿 멤버 함수 'COperator<int> COperator<int>::operator +(float)'을(를) 컴파일하고 있습니다.
+  c:\users\kevinthegrey\desktop\lecture1\180610_stl\180610_stl\main.cpp(147): note: 컴파일 중인 함수 템플릿 인스턴스화 'COperator<int> COperator<int>::operator +(float)'에 대한 참조를 확인하십시오.
+  c:\users\kevinthegrey\desktop\lecture1\180610_stl\180610_stl\main.cpp(138): note: 컴파일 중인 클래스 템플릿 인스턴스화 'COperator<int>'에 대한 참조를 확인하세요.
+  180610_STL.vcxproj -> C:\Users\kevinthegrey\Desktop\lecture1\180610_STL\Debug\180610_STL.exe
