@@ -309,7 +309,6 @@ public:
 		}
 	}
 
-	// 정렬을 만들어보자.숙제임.
 	void sort(bool(*pFunc)(const T&, const T&))
 	{
 		for (int i = 0; i < m_iSize - 1; ++i)
