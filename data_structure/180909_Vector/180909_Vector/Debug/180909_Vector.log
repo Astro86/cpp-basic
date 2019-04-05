@@ -1,6 +1,4 @@
 ﻿  main.cpp
-c:\users\kevinthegrey\desktop\lecture1\180909_vector\180909_vector\vector.h(124): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  c:\users\kevinthegrey\desktop\lecture1\180909_vector\180909_vector\vector.h(112): note: 클래스 템플릿 멤버 함수 'CVector<int>::CVector(void)'을(를) 컴파일하고 있습니다.
-  c:\users\kevinthegrey\desktop\lecture1\180909_vector\180909_vector\main.cpp(14): note: 컴파일 중인 함수 템플릿 인스턴스화 'CVector<int>::CVector(void)'에 대한 참조를 확인하십시오.
-  c:\users\kevinthegrey\desktop\lecture1\180909_vector\180909_vector\main.cpp(14): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CVector<int>'에 대한 참조를 확인하세요.
-  180909_Vector.vcxproj -> C:\Users\kevinthegrey\Desktop\lecture1\180909_Vector\Debug\180909_Vector.exe
+c:\users\chrisysl\desktop\github\cpp_basic\data_structure\180909_vector\180909_vector\vector.h(124): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\chrisysl\desktop\github\cpp_basic\data_structure\180909_vector\180909_vector\vector.h(333): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CVector<T>'에 대한 참조를 확인하세요.
+  180909_Vector.vcxproj -> C:\Users\chrisysl\Desktop\GitHub\cpp_basic\data_structure\180909_Vector\Debug\180909_Vector.exe
