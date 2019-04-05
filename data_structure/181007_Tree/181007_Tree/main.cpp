@@ -11,9 +11,6 @@ using namespace std;
 // 전위순회, 중위순회, 후위순회가 있다.
 // 전위순회와 중위순회, 후위순회를 BinarySearchTree 클래스에 함수들을 만들어서 구현해보자.
 
-// 숙제 : 키값을 넣어서 삭제하는 erase 함수를 만들어보자.
-
-
 void Output(int& iData)
 {
 	cout << iData << " ";
