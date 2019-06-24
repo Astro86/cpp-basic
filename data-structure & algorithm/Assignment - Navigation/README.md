@@ -1,6 +1,6 @@
 # 과제 내용 및 제한 사항
 
-![img5](https://user-images.githubusercontent.com/35681772/60000300-e1df0780-969e-11e9-9c78-6ba835ec3858.png)
+![img5](https://user-images.githubusercontent.com/35681772/60001080-9d546b80-96a0-11e9-8502-662c785b1b18.png)
 
 ![img6](https://user-images.githubusercontent.com/35681772/60000302-e2779e00-969e-11e9-8c2c-cca5ef65301d.png)
 
