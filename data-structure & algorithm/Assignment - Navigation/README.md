@@ -28,11 +28,12 @@
 그래서 그렇게 찾은 최단 거리와 경로를 ‘질의형식’에 맞춰 적절히 화면에 표현해준다.
 
 ### 1-3. 개발환경
-OS : Windows 10 Pro
-Processor : Intel(R) Core(TM) i7-5557 CPU @ 3.10GHz
-RAM : 16GB
-IDE : Microsoft Visual Studio Community 2017 ver 15.9.9
-Language : Visual C++ 2017
+
+>OS : Windows 10 Pro<br>
+Processor : Intel(R) Core(TM) i7-5557 CPU @ 3.10GHz<br>
+RAM : 16GB<br>
+IDE : Microsoft Visual Studio Community 2017 ver 15.9.9<br>
+Language : Visual C++ 2017<br>
 
 ---
 
