@@ -1,5 +1,0 @@
-﻿  main.cpp
-c:\users\chrisysl\dropbox\2019-1\os\실습\과제1\os1_12154864\190413_os_assignment\190413_os_assignment\main.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\chrisysl\dropbox\2019-1\os\실습\과제1\os1_12154864\190413_os_assignment\190413_os_assignment\main.cpp(98): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\chrisysl\dropbox\2019-1\os\실습\과제1\os1_12154864\190413_os_assignment\190413_os_assignment\main.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  190413_OS_assignment.vcxproj -> C:\Users\chrisysl\Dropbox\2019-1\OS\실습\과제1\OS1_12154864\190413_OS_assignment\Debug\190413_OS_assignment.exe
